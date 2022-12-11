@@ -1,0 +1,15 @@
+{
+  "name": "super-koa-like",
+  "version": "1.0.0",
+  "description": "koa implementation",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "fizzstack@gmail.com",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
+}
